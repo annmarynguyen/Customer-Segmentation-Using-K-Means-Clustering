@@ -1,4 +1,4 @@
-### Credit Card Customer Segmentation Using K-Means Clustering
+# Credit Card Customer Segmentation Using K-Means Clustering
 
 ## Project Overview
 
