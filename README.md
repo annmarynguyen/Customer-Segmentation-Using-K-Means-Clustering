@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project was completed as an early exploration of unsupervised machine learning and clustering using a Kaggle dataset. The goal was to identify groups of customers with similar spending and payment behaviors using K-Means clustering and dimensionality reduction techniques. It has been preserved and lightly revised for presentation. 
+This project was completed as an early introduction of unsupervised machine learning and clustering using a Kaggle dataset. The goal was to identify groups of customers with similar spending and payment behaviors using K-Means clustering and dimensionality reduction techniques. It has been preserved and lightly revised for presentation. 
 
 ## Objectives
 
@@ -26,7 +26,7 @@ https://www.kaggle.com/datasets/arjunbhasin2013/ccdata
    - Silhouette Score
    - Inertia
 
-## Key Findings and Results
+## Results
 
 - The Elbow Method suggested five clusters.
 - Silhouette analysis suggested four clusters.
